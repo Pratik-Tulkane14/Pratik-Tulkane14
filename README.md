@@ -66,4 +66,5 @@
 </p>
 
 <!-- Activity Graph -->
-![Snake animation](https://github.com/Pratik-Tulkane14/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/Pratik-Tulkane14/Pratik-Tulkane14/output/snake.svg)
+
