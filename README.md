@@ -66,12 +66,12 @@
 </p>
 
 <!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&bg_color=0D1117&line=006400&point=32CD32&area=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Tulkane14&theme=github-dark&hide_border=true&bg_color=0D1117&line=006400&point=32CD32&area=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Optional: Add social media links -->
 ## Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/pratik-tulkane/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
