@@ -54,6 +54,10 @@
 <!-- Add this if you want to show profile views -->
 <img src="https://komarev.com/ghpvc/?username=Pratik-Tulkane14&style=flat-square&color=blue" alt="Profile Views"/>
 
+### 📝 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!-- Optional: Add social media links -->
 ## Connect with me
 <p align="left">
