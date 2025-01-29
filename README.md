@@ -52,7 +52,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Tulkane14&theme=radical)
 
 <!-- Add this if you want to show profile views -->
-![Profile Views](https://komarev.com/ghpvs/?username=Pratik-Tulkane14&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=Pratik-Tulkane14&style=flat-square&color=blue" alt="Profile Views"/>
 
 <!-- Optional: Add social media links -->
 ## Connect with me
