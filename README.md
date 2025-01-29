@@ -50,19 +50,19 @@
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik-Tulkane14&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Tulkane14&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Tulkane14&theme=radical)
 
 <!-- Add this if you want to show profile views -->
-![Profile Views](https://komarev.com/ghpvs/?username=YOUR_USERNAME&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvs/?username=Pratik-Tulkane14&color=brightgreen)
 
 <!-- Optional: Add social media links -->
 ## Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/pratik-tulkane" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
