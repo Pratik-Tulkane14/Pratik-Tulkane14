@@ -66,4 +66,4 @@
 </p>
 
 <!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Tulkane14&theme=github-dark&hide_border=true&bg_color=0D1117&line=006400&point=32CD32&area=true&hide_title=true)](https://github.com/Pratik-Tulkane14/github-readme-activity-graph)
+![Snake animation](https://github.com/Pratik-Tulkane14/Pratik-Tulkane14/blob/output/github-contribution-grid-snake.svg)
