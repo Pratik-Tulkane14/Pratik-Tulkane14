@@ -5,7 +5,7 @@
 
 • 🏃 In absolute love with ReactJs & NextJs with TypeScript & TailwindCSS and building web applications with it
 
-• 📚 I'm currently learning Nextjs & Devops
+• 📚 I'm currently learning Nextjs
 
 # Domain of interests
 
@@ -64,11 +64,11 @@
   <a href="https://linkedin.com/in/pratik-tulkane" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+<!--   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <!-- Activity Graph -->
-![GitHub Snake Animation](https://raw.githubusercontent.com/Pratik-Tulkane14/Pratik-Tulkane14/output/snake.svg)
+<!--![GitHub Snake Animation](https://raw.githubusercontent.com/Pratik-Tulkane14/Pratik-Tulkane14/output/snake.svg)-->
 
